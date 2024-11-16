@@ -1,0 +1,14 @@
+{
+  "name": "node-e-servidor",
+  "version": "1.0.0",
+  "description": "programa para redimencionar fotos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melissa",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}

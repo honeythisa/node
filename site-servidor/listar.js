@@ -16,6 +16,7 @@ function listarProdutos(){
         <table class="table-auto w-full mt-4">
             <tr>
                 <th>ID<th/>
+                <th>FOTO<th/>
                 <th>NOME<th/>
                 <th>PREÇO<th/>
             <tr/>  
